@@ -1,0 +1,5 @@
+Hola como estas este
+es un nuevo archivo
+creado desde consola
+por comando de linux.
+Finish.
