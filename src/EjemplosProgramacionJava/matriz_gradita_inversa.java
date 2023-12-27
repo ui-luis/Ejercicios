@@ -1,7 +1,14 @@
 package EjemplosProgramacionJava;
 
 import java.util.Scanner;
-
+/*
+* Matriz de la forma :
+ 1  2  3  4  5
+  6  7  8  9  0
+  10  11  12  0  0
+  13  14  0  0  0
+  15  0  0  0  0
+* */
 public class matriz_gradita_inversa {
     public static void main(String[] args) {
         int vec[][] = new int[20][20];

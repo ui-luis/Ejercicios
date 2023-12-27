@@ -1,7 +1,13 @@
 package EjemplosProgramacionJava;
 
 import java.util.Scanner;
-
+/* Matriz de la forma :
+*   5 9 12 14 15
+    0 4 8 11 13
+    0 0 3 7 10
+    0 0 0 2 6
+    0 0 0 0 1
+* */
 public class matriz_continua_inferior {
     public static void main(String[] args) {
         int vec[][] = new int[20][20];

@@ -1,7 +1,14 @@
 package EjemplosProgramacionJava;
 
 import java.util.Scanner;
-
+/*
+* Matriz de la forma :
+ 1  9  10  14  15
+  0  2  8  11  13
+  0  0  3  7  12
+  0  0  0  4  6
+  0  0  0  0  5
+* */
 public class matriz_vibora_gradita {
     public static void main(String[] args) {
         int vec[][] = new int[20][20];

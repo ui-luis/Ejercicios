@@ -1,6 +1,14 @@
 package EjemplosProgramacionJava;
 
 import java.util.Scanner;
+/*
+* Matriz de la forma :
+ 1 10 17 22 25
+ 2 11 18 23 24
+ 3 12 19 20 21
+ 4 13 14 15 16
+ 5 6 7 8 9
+* */
 
 public class matriz_L {
     public static void main(String[] args) {

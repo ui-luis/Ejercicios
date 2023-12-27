@@ -1,7 +1,14 @@
 package EjemplosProgramacionJava;
 
 import java.util.Scanner;
-
+/*
+* Matriz de la forma :
+ 1 6 10 13 15
+ 0 2 7 11 14
+ 0 0 3 8 12
+ 0 0 0 4 9
+ 0 0 0 0 5
+* */
 public class matriz_continua_superior {
     public static void main(String[] args) {
         int vec[][] = new int[20][20];

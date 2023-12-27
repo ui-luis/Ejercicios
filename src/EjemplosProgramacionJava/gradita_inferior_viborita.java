@@ -1,6 +1,13 @@
 package EjemplosProgramacionJava;
 
 import java.util.Scanner;
+/* Matriz de la forma :
+* 5  6  12  13  15
+  0  4  7   11  14
+  0  0  3   8   10
+  0  0  0   2   9
+  0  0  0   0   1
+* */
 
 public class gradita_inferior_viborita {
     public static void main(String[] args) {

@@ -1,4 +1,12 @@
 package EjemplosProgramacionJava;
+/*
+* Matriz de la forma :
+ 1 2 3 4 5
+ 10 9 8 7 6
+ 11 12 13 14 15
+ 20 19 18 17 16
+ 21 22 23 24 25
+* */
 
 public class matriz_S_inversa {
     public static void main(String[] args) {
